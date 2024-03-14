@@ -54,7 +54,7 @@ const CustomButtons=()=>{
         setOpen(true);
     }
     return(
-        <Wrapper>
+        <Wrapper style={{cursor: "pointer"}}>
             {
                 // account ? <Typography>{account}</Typography> :
                 account ? <Profile account={account} setAccount={setAccount}/> :
