@@ -1,0 +1,26 @@
+npm create-react-app client
+npm install @mui/material @emotion/react @emotion/styled
+npm i @mui/icons-material
+npm i react-multi-carousel  --> for carousel
+npm i axios
+npm i redux
+npm i redux-devtools-extension   ==>not working
+
+
+//server:-
+npm i cors
+npm i body-parser   --->used to handle post request
+
+
+
+ {
+    //                     products.map(product=>(
+    //                         <Box textAlign="center" style={{ padding: '25px 15px' }}>
+    //                             <Image src={product.url}/>
+    //                             <Text style={{ fontWeight: 600, color: '#212121' }}>{product.title.shortTitle}</Text>
+    //                                 <Text style={{ color: 'green' }}>{product.discount}</Text>
+    //                                 <Text style={{ color: '#212121', opacity: '.6' }}>{product.tagline}</Text>
+    //                         </Box>
+    //                     ))
+    //                 }
+// export default Slide;
