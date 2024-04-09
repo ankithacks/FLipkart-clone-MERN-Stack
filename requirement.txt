@@ -12,15 +12,4 @@ npm i cors
 npm i body-parser   --->used to handle post request
 
 
-
- {
-    //                     products.map(product=>(
-    //                         <Box textAlign="center" style={{ padding: '25px 15px' }}>
-    //                             <Image src={product.url}/>
-    //                             <Text style={{ fontWeight: 600, color: '#212121' }}>{product.title.shortTitle}</Text>
-    //                                 <Text style={{ color: 'green' }}>{product.discount}</Text>
-    //                                 <Text style={{ color: '#212121', opacity: '.6' }}>{product.tagline}</Text>
-    //                         </Box>
-    //                     ))
-    //                 }
-// export default Slide;
+WHen git clone then only change DB_USERNAME and DB_PASSWORD for now.
